@@ -149,11 +149,6 @@ Contributions are welcome! If you'd like to improve this project, fork the repos
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🧑‍💻 Author
 **NourSafwan**  
 [GitHub](https://github.com/NourSafwan) | [LinkedIn](https://www.linkedin.com/in/noursafwan)
